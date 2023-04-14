@@ -1,8 +1,9 @@
-.git/
-.vs/
+# Ignore x64 folder
 x64/
-TemporaryColorPlate/x64/
-TemporaryColorPlate\.vs
+
+# Ignore .vs folder
+.vs/
+
 # Prerequisites
 *.d
 
