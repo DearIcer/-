@@ -2,6 +2,7 @@
 .vs/
 x64/
 TemporaryColorPlate/x64/
+TemporaryColorPlate\.vs
 # Prerequisites
 *.d
 
