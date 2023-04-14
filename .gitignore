@@ -1,3 +1,7 @@
+.git/
+.vs/
+x64/
+TemporaryColorPlate/x64/
 # Prerequisites
 *.d
 

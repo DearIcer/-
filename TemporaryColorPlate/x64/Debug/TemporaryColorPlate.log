@@ -1,6 +1,0 @@
-﻿  ColorPlate.cpp
-E:\UE4Github\TemporaryColorPlate\TemporaryColorPlate\ColorPlate.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-E:\UE4Github\TemporaryColorPlate\TemporaryColorPlate\ColorPlate.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-E:\UE4Github\TemporaryColorPlate\TemporaryColorPlate\ColorPlate.cpp(7,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-E:\UE4Github\TemporaryColorPlate\TemporaryColorPlate\ColorPlate.cpp(8,53): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-  TemporaryColorPlate.vcxproj -> E:\UE4Github\TemporaryColorPlate\x64\Debug\TemporaryColorPlate.exe

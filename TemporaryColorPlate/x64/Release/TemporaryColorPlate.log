@@ -1,7 +1,0 @@
-﻿  imgui_impl_dx12.cpp
-  imgui_impl_win32.cpp
-  正在生成代码
-  Previous IPDB and IOBJ mismatch, fall back to full compilation.
-  All 1809 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  已完成代码的生成
-  TemporaryColorPlate.vcxproj -> E:\UE4Github\TemporaryColorPlate\x64\Release\TemporaryColorPlate.exe
